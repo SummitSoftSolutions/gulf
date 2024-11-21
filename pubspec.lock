@@ -113,14 +113,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "5.0.6"
-  empty_widget:
+  empty_widget_fork:
     dependency: "direct main"
     description:
-      name: empty_widget
-      sha256: aad8073e5fb43eadde7007db1e2fea7acd33d0d33cff031e31a6675ca0a3e7fb
+      name: empty_widget_fork
+      sha256: "4658e0e1e501e914b3852fb8e0ec4e71b5a10e6f69b4df18e6f40682641dd6e4"
       url: "https://pub.dev"
     source: hosted
-    version: "0.0.5"
+    version: "0.0.6"
   fake_async:
     dependency: transitive
     description:

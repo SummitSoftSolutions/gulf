@@ -7,7 +7,7 @@ import 'package:gulf_suprabhaatham/superadmin/viewIndivialcoordinator.dart';
 import 'package:hexcolor/hexcolor.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:empty_widget/empty_widget.dart';
+import 'package:empty_widget_fork/empty_widget_fork.dart';
 
 import '../agent/coordinatorlogin.dart';
 import '../constants.dart';
